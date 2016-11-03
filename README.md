@@ -1,3 +1,5 @@
+WARNING: The materialize-amd used in this example is deprecated.  Some parts of it may not function, use what you can, but it hasn't kept up with materialize and is likely partially broken.
+
 ![Durandal](http://durandaljs.com/media/DURANDAL-FINAL-HI-RES-LOGO-HOR-WEB.png)
 
 Durandal is a cross-device, cross-platform client framework written in JavaScript and designed to make Single Page Applications (SPAs) easy to create and maintain. We've used it to build apps for PC, Mac, Linux, iOS and Android...and now it's your turn...
